@@ -1,0 +1,291 @@
+@media screen and (max-width:768px) {
+    .container {
+        background-color: #d6666e;
+        height: 100%;
+        padding: 10px;
+    }
+
+    .profile-section {
+        display: flex;
+
+    }
+
+    .profile-head-container {
+        display: flex;
+        align-items: center;
+    }
+
+    .profile-container {
+        font-family: roboto;
+        font-size: 14px;
+        color: #20073e;
+        padding-right: 25px;
+    }
+
+    .profile-description {
+        font-family: roboto;
+        font-size: 20px;
+        color: #20073e;
+        padding-right: 14px;
+    }
+
+    .profile-address {
+        font-family: roboto;
+        font-size: 13px;
+        color: #20073e;
+        padding-left: 25px;
+    }
+
+    span {
+        font-size: 13px;
+        color: #20073e;
+        font-weight: bold;
+    }
+
+    .line {
+        border: 1.5px solid;
+    }
+
+    .circle {
+        border-color: #20073e;
+        border: 2px solid;
+        border-radius: 40px;
+        padding: 5px;
+    }
+
+    .working-section {
+        display: flex;
+        align-items: center;
+    }
+
+    .work-container {
+        font-family: roboto;
+        font-size: 14px;
+        color: #20073e;
+        padding-right: 25px;
+    }
+
+    .Working-time {
+        font-size: 15px;
+        padding-right: 25px;
+        align-self: center;
+    }
+
+    .working-years-container {
+        font-family: roboto;
+        color: #20073e;
+    }
+
+    .working-years {
+        display: flex;
+    }
+
+    .skills-container {
+        font-family: roboto;
+        align-self: center;
+    }
+
+    .skills-and-awards-container {
+        padding-right: 25px;
+        align-self: center;
+    }
+
+    .skills-awards-description {
+        display: flex;
+    }
+
+    .skills-para {
+        font-family: roboto;
+        padding-right: 10px;
+        font-size: 15px;
+    }
+
+    .Awards-container {
+        display: flex;
+        flex-direction: column;
+        padding-left: 25px;
+    }
+
+    .skills-and-awards-section {
+        display: flex;
+        padding: 5px;
+    }
+
+    .studio {
+        display: flex;
+        align-items: center;
+    }
+
+    .bulb-container {
+        font-family: roboto;
+        font-size: 14px;
+        color: #20073e;
+        padding-right: 15px;
+    }
+
+    .circle-bulb-card {
+        border-color: #20073e;
+        border: 2px solid;
+        border-radius: 40px;
+        padding: 10px;
+        background-color: #20073e;
+        color: #d6666e;
+    }
+
+    .bulb-container-section {
+        display: flex;
+        align-items: center;
+        padding-right: 20px;
+    }
+
+    .images {
+        padding: 10px;
+        align-self: center;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width: 2890px) {
+    .container {
+        background-color: #d6666e;
+        height: 100%;
+        padding: 10px;
+    }
+
+    .profile-section {
+        display: flex;
+
+    }
+
+    .profile-head-container {
+        display: flex;
+        align-items: center;
+    }
+
+    .profile-container {
+        font-family: roboto;
+        font-size: 14px;
+        color: #20073e;
+        padding-right: 25px;
+    }
+
+    .profile-description {
+        font-family: roboto;
+        font-size: 20px;
+        color: #20073e;
+        padding-right: 14px;
+    }
+
+    .profile-address {
+        font-family: roboto;
+        font-size: 13px;
+        color: #20073e;
+        padding-left: 25px;
+    }
+
+    span {
+        font-size: 13px;
+        color: #20073e;
+        font-weight: bold;
+    }
+
+    .line {
+        border: 1.5px solid;
+    }
+
+    .circle {
+        border-color: #20073e;
+        border: 2px solid;
+        border-radius: 40px;
+        padding: 5px;
+    }
+
+    .working-section {
+        display: flex;
+        align-items: center;
+    }
+
+    .work-container {
+        font-family: roboto;
+        font-size: 14px;
+        color: #20073e;
+        padding-right: 25px;
+    }
+
+    .Working-time {
+        font-size: 15px;
+        padding-right: 25px;
+        align-self: center;
+    }
+
+    .working-years-container {
+        font-family: roboto;
+        color: #20073e;
+    }
+
+    .working-years {
+        display: flex;
+    }
+
+    .skills-container {
+        font-family: roboto;
+        align-self: center;
+    }
+
+    .skills-and-awards-container {
+        padding-right: 25px;
+        align-self: center;
+    }
+
+    .skills-awards-description {
+        display: flex;
+    }
+
+    .skills-para {
+        font-family: roboto;
+        padding-right: 10px;
+        font-size: 15px;
+    }
+
+    .Awards-container {
+        display: flex;
+        flex-direction: column;
+        padding-left: 25px;
+    }
+
+    .skills-and-awards-section {
+        display: flex;
+        padding: 5px;
+    }
+
+    .studio {
+        display: flex;
+        align-items: center;
+    }
+
+    .bulb-container {
+        font-family: roboto;
+        font-size: 14px;
+        color: #20073e;
+        padding-right: 15px;
+    }
+
+    .circle-bulb-card {
+        border-color: #20073e;
+        border: 2px solid;
+        border-radius: 40px;
+        padding: 10px;
+        background-color: #20073e;
+        color: #d6666e;
+    }
+
+    .bulb-container-section {
+        display: flex;
+        align-items: center;
+        padding-right: 20px;
+    }
+
+    .images {
+        padding: 10px;
+        align-self: center;
+    }
+}
